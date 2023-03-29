@@ -25,7 +25,7 @@ btnBack.addEventListener("click", () => {
 const loadMovie = async () => {
   try {
     const response = await fetch(
-      `https://api.themoviedb.org/3/movie/popular?api_key=24b57e022160bdbda23f2aca6fa16730&language=en-US&page=${page}`
+      `https://api.themoviedb.org/3/movie/popular?api_key=YOUR_API_KEY&language=en-US&page=${page}`
     );
 
     // Make a fetch request to the specified API endpoint with the current page number as a parameter
