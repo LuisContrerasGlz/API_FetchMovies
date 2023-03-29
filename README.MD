@@ -23,3 +23,5 @@ To run the application, you need to follow these steps:
 ## Usage
 
 The application displays a grid of movie posters and titles on the main page. You can use the pagination buttons at the bottom of the page to navigate through pages of movie results.
+
+![Screenshot Index](./img/index.png)
