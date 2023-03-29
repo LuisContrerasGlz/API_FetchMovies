@@ -16,7 +16,7 @@ The following technologies were used to create this application:
 To run the application, you need to follow these steps:
 
 1. Clone this repository to your local machine
-2. Obtain an API key from The Movie Database (TMDb) website
+2. Obtain an API key from The Movie Database (TMDb) website https://www.themoviedb.org/
 3. Replace YOUR_API_KEY in the following URL https://api.themoviedb.org/3/movie/popular?api_key=YOUR_API_KEY&language=en-US&page= with your own API key
 4. Open the index.html file in your web browser
 
